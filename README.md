@@ -3,7 +3,7 @@
 Covid Tracker is a robust web-based app that harnesses cutting-edge technologies to deliver real-time COVID-19 statistics and comprehensive data analysis. Developed using React, JavaScript's powerful library, this application offers a seamless user experience and extensive functionalities.
 
 
-Technologies Used:
+### Technologies Used:
 
 React Framework: Built on the React framework to ensure a responsive and dynamic user interface, facilitating smooth navigation and interaction.
 
@@ -16,7 +16,7 @@ Leaflet.js: Employing Leaflet.js for map rendering, users can explore the pandem
 HTML5 & CSS3: Incorporating modern web technologies, including HTML5 and CSS3, ensures a visually appealing layout and responsive design across devices.
 
 
-Key Features:
+### Key Features:
 
 Real-Time Global & Country-Specific Data: Access up-to-the-minute statistics for total cases, deaths, and recovered cases worldwide. Dive into specific countries for detailed insights.
 
