@@ -29,6 +29,10 @@ Search & Filter: Effortlessly search for countries and filter data based on case
 Responsive Design: With a responsive design, TrackCOVID ensures an optimal viewing experience across a variety of devices and screen sizes.
 
 
+### Live Demo:
+Check out the live demo [here](https://carloscasaleiro.github.io/covid-tracker/)!
+
+
 ![Screen Shot 1](https://github.com/carloscasaleiro/covid-tracker/assets/139387646/c4d31359-4e85-4eaf-9a60-b8f70b7cf457)
 ![Screen Shot 2](https://github.com/carloscasaleiro/covid-tracker/assets/139387646/440e9be5-163e-4dd1-9d35-694b59a18094)
 ![Screen Shot 3](https://github.com/carloscasaleiro/covid-tracker/assets/139387646/c6440b03-829c-4f2b-b110-758a8245b4b8)
